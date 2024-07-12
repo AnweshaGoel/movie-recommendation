@@ -1,1 +1,1 @@
-# movie-recommendation
+A GUI system for recommending using cosine similarity algorithm what to watch next based on a movie selected (dropdown) or spoken (speech recognition library). Movie’s poster, link to trailer, imdb rating, actors and other details are also displayed with the help of a few of the numerous libraries on python like Tkinter, panda, webbrowser etc.
